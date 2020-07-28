@@ -1,0 +1,13 @@
+C:\Users\Jedida\source\repos\phoneBook_ns\bin\Debug\phoneBook_ns.exe.config
+C:\Users\Jedida\source\repos\phoneBook_ns\bin\Debug\phoneBook_ns.exe
+C:\Users\Jedida\source\repos\phoneBook_ns\bin\Debug\phoneBook_ns.pdb
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.csprojAssemblyReference.cache
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.Form1.resources
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.Properties.Resources.resources
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.csproj.GenerateResource.cache
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.csproj.CoreCompileInputs.cache
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.exe
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.pdb
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.About_Us_Form.resources
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.Reg_form.resources
+C:\Users\Jedida\source\repos\phoneBook_ns\obj\Debug\phoneBook_ns.Search_form.resources
